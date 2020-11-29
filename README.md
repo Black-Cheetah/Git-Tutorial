@@ -50,3 +50,6 @@ _My First Repository For Learning Git &amp; GitHub_ :octocat:
 - Push Files To Remote Repository:
 	1. Show Remote Name And Link: ```git remote -v```
 	2. Push Files: ```push Remote_Repo_Name Branch_Repo_Name```
+- Pull Fiels From Remote Repository:
+	* ```git pull Remote_Repo_Name```
+	
