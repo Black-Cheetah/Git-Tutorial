@@ -1,5 +1,5 @@
 # Git-Tutorial
-_My First Repository For Learning Git &amp; GitHub_ :octocat:
+_My First Repository For Learning Git &amp; GitHub_ :octocat:\n\n
 ![Git Logo](images/git-logo.png)
 
 ## Notes:
